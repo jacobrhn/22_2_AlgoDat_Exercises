@@ -4,4 +4,4 @@ Vorlesung|Algorithmen und Datenstrukturen
 ---|---
 Semester|2
 
-Solutions to the exercises in lecture "Algorithmen und Datenstrukturen" (Semester 2) at DHBW Loerrach, elaborated by Kilian Lorenz and Jacob Ruhnau
+Solutions to the exercises elaborated by Kilian Lorenz and Jacob Ruhnau
