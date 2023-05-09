@@ -15,6 +15,6 @@ Mail|lorenzk@dhbw-loerrach.de|ruhnauja@dhbw-loerrach.de
 ---:|---:|---:|---:
 01|$\Theta$|DONE|23.04.2023
 02|Insertion Sort, BIG-O|DONE|20.04.2023
-03|_tbd_|DRAFT
+03|Recursion & LinkedList|07.05.2023
 n|_tbd_|DRAFT
 
